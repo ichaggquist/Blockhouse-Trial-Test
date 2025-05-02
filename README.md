@@ -12,3 +12,6 @@ In addition, answer the following questions regarding the reading:
 1. What is the motivation behind measuring OFI at multiple depth levels of the order book?
 2. Why do the authors use Lasso regression rather than OLS for estimating cross-impact?
 3. Why is OFI considered a better predictor of short-term returns than trade volume?
+
+
+All code can be found in the Task One jupyter notebook. 
